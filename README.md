@@ -1,16 +1,54 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html>
+    <title> Fabiana Sofia Villalba Zeballos</title>
+    </head>
+    <Body>
+        <h3>
+            Hola, soy
+        </h3>
+        <h1>
+            FABIANA SOFÍA VILLALBA ZEBALLOS
+        </h1>
+        <h3>
+            Tengo 18 años, amo dibujar, la animación y soy alumna en la <a href="https://ucsp.edu.pe/"> Universidad Católica San Pablo </a>, actualmente estoy estudiando la carrera de <a href="https://ucsp.edu.pe/carreras/administracion-negocios/">administración de negocios</a>
+        </h3>
+        <h3>
+            Estoy en el tercer semestre, llevo los siguientes cursos:
+            <ol>
+                <li>Filosofía de la naturalesa</li>
+                Docente: Matto Neyra David Luis
+                <li>Ánalisis financiero</li>
+                Docente: <a href="https://www.linkedin.com/in/mar%C3%ADa-bel%C3%A9n-bocchio-linares-96846035/">Bocchio Linares Maria Belen</a> 
+                <li>Cálculo en una variable</li>
+                Docente: <a href="https://www.linkedin.com/in/amparo-isela-chalco-ch%C3%A1vez-8185512aa/"> Zegarra Maribel Marianela </a>
+                <li>Comportamiento del consumidor</li>
+                Docente: Salomon Valdivia Miguel Fernando 
+                <li>Liderazgo</li>
+                Docente: Nuñez Saija Pablo Plinio
+                <li>Historia de Occidente I</li>
+                Docente: Chalco Chavez Amparo Isela
+                <li>Pensamiento Computacional</li>
+                Docente: <a href="https://www.linkedin.com/in/ecuadrosv/" > Cuadros Vargas Ernesto </a>
+                <li>Teatro (taller) </li>
+                Docente: Sarda Bianchi Jose Antonio
+            </ol>
+        </h3>
+        <h3>
+            Esta página web esta hecha para el curso de Pensamiento Computacional
+        </h3>
+        <h3>
+            A continuación mencionare algunos de los compañeros con los que llevo el curso y considero mis amigos 
+            <ol>
+                <li><a href="https://dagh-dagh.github.io/duanygonzales.github.io/">Duany Alexia Gonzales</a></li>
+                <li><a href="https://day-llave.github.io/dayron_giovani_coaquira_llave/">Dayron Giovani Coaquira</a></li>
+                <li><a href="">Saul Sosa</a></li>
+                <li><a href="https://yudith-yesenia13.github.io/">Yudith Yesenia</a></li> 
+            </ol>
+        </h3>
 
-<!--
-**FabianaSVillalbaZeballos/FabianaSVillalbaZeballos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        <h2>
+            Gracias por visitar mi página :D
+        </h2>
+</html>
